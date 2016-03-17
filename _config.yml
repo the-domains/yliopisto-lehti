@@ -1,0 +1,28 @@
+name: Yliopisto-lehti
+favicon: null
+layout_spectrum: 0.052084587747231126
+typography_spectrum: 0.10159628908149898
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7364415593910962
+  lightness: 0.9498444709461182
+  saturation: 0.8964110317174345
+  rhythmicContrast: 0.49902146798558533
+purpose: []
